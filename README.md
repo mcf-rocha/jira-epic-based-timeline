@@ -2,6 +2,14 @@
 
 From a given agile board, it gets all cards in the most recent sprints and then group cards per sprint in order to display a timeline like this
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
+aaaa
+
 |.      |.              |
 |Epic A |.              |
 |.       |Issue key A.1 |
