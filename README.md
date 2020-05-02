@@ -32,10 +32,12 @@ After importing the CSV to a Google Spreasheet, just create a pivot table with t
 
 Note that you may also work with cards/epics from more than one Board.
 
-Example of data imported to Google Spreasheets
+Example of data presented as a Pivot Table after being imported to Google Spreasheets:
 
 ![Epic level timeline](docs/img1.png)
 
 ![Drill down by Cards](docs/img2.png)
+
+The very same type of table is presented in txt mode when you choose to visualize data from the standard output.
 
 
