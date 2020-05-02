@@ -26,6 +26,6 @@ By importing this data to a Google Spreadsheet, you will be able to visualise no
 After importing the CSV to a Google Spreasheet, just create a pivot table with the following configuration/fields:
 - Rows: Board, EpicKey, EpicName, IssueKey, IssueSummary;
 - Columns: Sprint Name;
-- Values: Ones (SummarIzed by COUNT)
+- Values: Ones (SummarIzed by COUNT).
 
 Note that you may also work with cards/epics from more than one Board.
