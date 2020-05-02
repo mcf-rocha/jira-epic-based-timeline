@@ -2,23 +2,20 @@
 
 From a given agile board, it gets all cards in the most recent sprints and then group cards per sprint in order to display a timeline like this
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
-aaaa
 
  . | . | Sprint 20.02 | Sprint 20.04 | Sprint 20.06
---- | --- | --- | --- | ---
+--- | --- | :---: | :---: | :---:
 **Epic A** | | | | 
- |  | `Issue key A.1` | 1 | 1 |   
- |  | `Issue key A.2` | 1 |   |
- |  | `Issue key A.3` |   |   | 1
+ |  | `Card A.1` | 1 | 1 |   
+ |  | `Card A.2` | 1 |   |
+ |  | `Card A.3` |   |   | 1
 **Epic B** | | | |         |  |   | 
- |  | `Issue key B.1` | 1 | 1  | 1
- |  | `Issue key B.2` |  |   |
+ |  | `Card B.1` | 1 | 1  | 1
+ |  | `Card B.2` |  |   | 1
+
+The 1s indicate that the card associated to that row is was part of the commitment the team made for the iteration represented in its column.
+
+For example, in the table above you can see that `Card A.1`, which is a deliverable of the **Epic A**, started in Sprint 20.02 but was carried over into Sprint 20.04.
 
 You'll be able to:
 - display the above table in the standard output in a txt format; or
