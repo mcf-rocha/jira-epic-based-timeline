@@ -31,3 +31,11 @@ After importing the CSV to a Google Spreasheet, just create a pivot table with t
 - Values: Ones (SummarIzed by COUNT).
 
 Note that you may also work with cards/epics from more than one Board.
+
+Example of data imported to Google Spreasheets
+
+![Epic level timeline](docs/img1.png)
+
+![Drill down by Cards](docs/img2.png)
+
+
