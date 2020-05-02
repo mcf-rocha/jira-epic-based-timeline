@@ -1,6 +1,8 @@
 # jira-epic-based-timeline
 
-From a given agile board, it gets all cards in the most recent sprints and then group cards per sprint in order to display a timeline like this
+Visualize the workstreams of your teams in a timeline without having to deal with start and delivery dates! Just use the information you already have available, without any extra effort.
+
+From a given agile board, it gets all cards in the 'x' most recent sprints and then group cards per sprint in order to display a timeline like this:
 
 
  . | . | Sprint 20.02 | Sprint 20.04 | Sprint 20.06
