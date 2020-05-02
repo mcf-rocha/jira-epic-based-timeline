@@ -1,0 +1,7 @@
+{
+    "jira-url":"https://xxx.atlassian.net/",
+    "jira-username":"me@domain.com",
+    "jira-password":"",
+    "jira-boards": [890],
+    "qtySprints":10
+}
