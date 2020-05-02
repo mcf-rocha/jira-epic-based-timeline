@@ -10,8 +10,8 @@ Markdown | Less | Pretty
 
 aaaa
 
- | | Sprint 20.02 | Sprint 20.04 | Sprint 20.06 |
----|---|---
+. | . | Sprint 20.02 | Sprint 20.04 | Sprint 20.06
+--- | --- | --- | --- | ---
 
 
 
