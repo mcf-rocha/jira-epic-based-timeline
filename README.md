@@ -13,18 +13,18 @@ aaaa
  . | . | Sprint 20.02 | Sprint 20.04 | Sprint 20.06
 --- | --- | --- | --- | ---
 Epic A | | | | 
- | Issue key A.1 | 1 | 1 |   
- | Issue key A.2 | 1 |   |
- | Issue key A.3 | 1 |   |
+ |  | Issue key A.1 | 1 | 1 |   
+ |  | Issue key A.2 | 1 |   |
+ |  | Issue key A.3 | 1 |   |
 Epic B | | | |         |  |   | 
- | Issue key B.1 | 1 |   |
- | Issue key B.2 | 1 |   |
- | Issue key B.3 | 1 |   |
- | Issue key B.4 | 1 |   |
- | Issue key B.5 | 1 |   |
+ |  | Issue key B.1 | 1 |   |
+ |  | Issue key B.2 | 1 |   |
+ |  | Issue key B.3 | 1 |   |
+ |  | Issue key B.4 | 1 |   |
+ |  | Issue key B.5 | 1 |   |
 Epic C | | | | 
- | Issue key C.1 | 1 |   |
- | Issue key C.2 | 1 |   |
+ |  | Issue key C.1 | 1 |   |
+ |  | Issue key C.2 | 1 |   |
 
 You'll be able to:
 - display the above table in the standard output in a txt format; or
