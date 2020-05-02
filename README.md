@@ -2,7 +2,7 @@
 
 Visualize the workstreams of your teams in a timeline without having to deal with start and delivery dates! Just use the information you already have available, without any extra effort.
 
-From a given agile board, it gets all cards in the 'x' most recent sprints and then group cards per sprint in order to display a timeline like this:
+From a given agile board, it gets all cards in the *x* most recent sprints and then group cards per sprint in order to display a timeline like this:
 
 
  . | . | Sprint 20.02 | Sprint 20.04 | Sprint 20.06
@@ -28,7 +28,7 @@ By importing this data to a Google Spreadsheet, you will be able to visualise no
 After importing the CSV to a Google Spreasheet, just create a pivot table with the following configuration/fields:
 - Rows: Board, EpicKey, EpicName, IssueKey, IssueSummary;
 - Columns: Sprint Name;
-- Values: Ones (SummarIzed by COUNT).
+- Values: Ones (Summarized by COUNT).
 
 Note that you may also work with cards/epics from more than one Board.
 
