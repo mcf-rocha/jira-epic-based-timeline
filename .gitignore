@@ -1,3 +1,15 @@
 config2.json
+*.pyc
+*.p
 *.csv
 *.pkl
+*.pkl.gz
+*.gz
+env
+*.egg-info
+logs
+# bin
+dist
+build
+.coverage
+

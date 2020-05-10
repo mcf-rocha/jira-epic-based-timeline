@@ -5,7 +5,7 @@ import pandas as pd
 import time
 import json
 
-with open('config.json') as config_file:
+with open('config2.json') as config_file:
     config = json.load(config_file)
 
 jira = Jira(
@@ -20,6 +20,7 @@ issue_board_id, issue_sprint_name, issue_key, issue_summary, issue_epic_key, iss
 #bs = jira.get_all_agile_boards()
 #for b in bs['values']:
 #    print(b['id'], ' - ', b['name'], ' - ', b['type'])
+
 
 for board_id in boards:
     sprintsValues = []
