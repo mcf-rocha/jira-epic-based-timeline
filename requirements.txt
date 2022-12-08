@@ -1,7 +1,7 @@
 astroid==2.3.3
 atlassian-python-api==1.14.9
 autopep8==1.5.2
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 entrypoints==0.3
 flake8==3.7.9
